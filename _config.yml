@@ -25,16 +25,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomacla.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: thelehhman/texture
+theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
-texture:
-  title: tomacla
-  tagline: Developer
+plainwhite:
+  name: tomacla
+  tagline: Developer. Cylist. Hiker.
   date_format: "%b %-d, %Y"
-  howPicker: false
-  style: black
 
   social_links:
     linkedIn: in/thomasclarisse # format: locale/username
