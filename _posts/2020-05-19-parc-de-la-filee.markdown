@@ -2,7 +2,7 @@
 layout: post
 title:  "Parc de la filée"
 date:   2020-05-19 19:57:00 +0100
-categories: hike
+categories: hike-kids
 ---
 # Promenade au parc de la filée
 
