@@ -1,0 +1,166 @@
+[{
+        "title": "Aigrefeuille-Sur-Maine",
+        "description": "Promenade au bord de l'eau le long de la Maine. Passage sur un pont de corde insolite. Jeter de cailloux dans l'eau.",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-danger",
+        "bike": "bg-danger",
+        "uniqueCode": "aigrefeuille"
+    },
+    {
+        "title": "Bois des fous - La Montagne",
+        "description": "Ballade dans une petite mais mystérieuse fôret. Chataîgnes à trouver en automne.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-success",
+        "uniqueCode": "boisdesfous"
+    },
+    {
+        "title": "Bouaye",
+        "description": "Entre vignes et forêt à Bouaye.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "bouaye"
+    },
+    {
+        "title": "Butte de la roche",
+        "description": "Grimper au dessus du marais de Goulaine pour mériter une vue sur l'agglomération Nantaise (par beau temps).",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-warning",
+        "uniqueCode": "butte_de_la_roche"
+    },
+    {
+        "title": "Chateau du Pé",
+        "description": "Entre le parc du Chateau du Pé et la chappelle de Bethléem et ses gargouilles insolites (Goldorak, Alien, ...).",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-warning",
+        "uniqueCode": "chateau_pe"
+    },
+    {
+        "title": "Bois Joli - Chateau Thébaud",
+        "description": "Promenade dans le village (avec le belvédère), sur la base de pont caffino et dans les vignobles du Muscadet.",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-warning",
+        "uniqueCode": "chateauthebaut"
+    },
+    {
+        "title": "Ile forget - Saint Sébastien",
+        "description": "Poumon de verdure au coeur de la ville avec un terrain de bicross, des jeux pour tous âges et des animaux.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "ile_forget"
+    },
+    {
+        "title": "Ilette à Rezé",
+        "description": "Reliant le bus 33 (Robinière) au tram 2/3 (Pirmil), une belle promenade dans les recoins cachés de Rezé.",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-warning",
+        "uniqueCode": "ilette"
+    },
+    {
+        "title": "Pont Caffino",
+        "description": "Promenade le long de la Maine à l'aller et sur les coteaux en revenant.",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-warning",
+        "uniqueCode": "pontcaffino"
+    },
+    {
+        "title": "Port Lavigne - Bouguenais",
+        "description": "Une belle boucle avec des belles vues et des sentiers insolites le long de la Loire. A voir la sculture 'The Settler'.",
+        "difficulty": {
+            "label": "Moyen",
+            "class": "bg-warning"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "portlavigne"
+    },
+    {
+        "title": "Forêt de Princé",
+        "description": "Petit tour en forêt.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-success",
+        "uniqueCode": "foretprince"
+    },
+    {
+        "title": "Le long de l'ognon - Pont St Martin",
+        "description": "Uniquement Printemps/Eté (sinon pas de bateau). Ballade entre le village de Pont St Martin, le bois et retour par le bateau à chaine.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "randopontsaintmartin"
+    },
+    {
+        "title": "Roche Ballue",
+        "description": "Tour de la roche ballue par les falaises puis par le lac.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-warning",
+        "bike": "bg-danger",
+        "uniqueCode": "rocheballue"
+    },
+    {
+        "title": "Forêt de Touffou",
+        "description": "Tour de la forêt de Touffou",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "touffou"
+    },
+    {
+        "title": "Entre Rezé et Les Sorinières",
+        "description": "Portion du tour de Rezé à pied permettant de faire une petite boucle. Chataîgnes à l'automne.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "tourreze"
+    }
+]
