@@ -1,4 +1,48 @@
-[{
+[
+    {
+        "title": "Jaguère Nord - Rezé",
+        "description": "Promenade autour de la jaguère en passant par la maison radieuse. Possibilité de rentrer par Trentemoult avec le bus.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "jaguere_nord"
+    },
+    {
+        "title": "Jaguère Sud - Rezé",
+        "description": "Promenade autour de la jaguère en passant par l'écoquartier.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "jaguere_sud"
+    },
+    {
+        "title": "Parc de la Filée - Les Sorinières",
+        "description": "Petit poumon vert au bord de l'ognon. Possibilité de jeter des cailloux dans l'eau.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "parcfilee"
+    },
+    {
+        "title": "Bord de Sèvres - Rezé/Nantes",
+        "description": "Aller retour depuis Pirmil en passant par le pac de la Morinière et ses toboggans géants.",
+        "difficulty": {
+            "label": "Facile",
+            "class": "bg-success"
+        },
+        "stroller": "bg-success",
+        "bike": "bg-success",
+        "uniqueCode": "bordsevres"
+    },{
         "title": "Aigrefeuille-Sur-Maine",
         "description": "Promenade au bord de l'eau le long de la Maine. Passage sur un pont de corde insolite. Jeter de cailloux dans l'eau.",
         "difficulty": {
