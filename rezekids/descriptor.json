@@ -1,7 +1,7 @@
 [
     {
         "title": "Jaguère Nord - Rezé",
-        "description": "Promenade autour de la jaguère en passant par la maison radieuse. Possibilité de rentrer par Trentemoult avec le bus.",
+        "description": "Promenade autour de la Jaguère en passant par la maison radieuse. Possibilité de rentrer par Trentemoult avec le bus.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -12,7 +12,7 @@
     },
     {
         "title": "Jaguère Sud - Rezé",
-        "description": "Promenade autour de la jaguère en passant par l'écoquartier.",
+        "description": "Promenade autour de la Jaguère en passant par l'écoquartier.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -23,7 +23,7 @@
     },
     {
         "title": "Parc de la Filée - Les Sorinières",
-        "description": "Petit poumon vert au bord de l'ognon. Possibilité de jeter des cailloux dans l'eau.",
+        "description": "Petit poumon vert au bord de l'Ognon. Petite aire de jeux et possibilité de jeter des cailloux dans l'eau.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -34,7 +34,7 @@
     },
     {
         "title": "Bord de Sèvres - Rezé/Nantes",
-        "description": "Aller retour depuis Pirmil en passant par le pac de la Morinière et ses toboggans géants.",
+        "description": "Aller retour depuis Pirmil en passant par le parc de la Morinière et ses toboggans géants.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -55,7 +55,7 @@
     },
     {
         "title": "Bois des fous - La Montagne",
-        "description": "Ballade dans une petite mais mystérieuse fôret. Chataîgnes à trouver en automne.",
+        "description": "Balade dans une petite mais mystérieuse fôret. Chataîgnes à trouver en automne.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -88,7 +88,7 @@
     },
     {
         "title": "Chateau du Pé",
-        "description": "Entre le parc du Chateau du Pé et la chappelle de Bethléem et ses gargouilles insolites (Goldorak, Alien, ...).",
+        "description": "Entre le parc du Chateau du Pé et la chapelle de Bethléem et ses gargouilles insolites (Goldorak, Alien, ...).",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -143,7 +143,7 @@
     },
     {
         "title": "Port Lavigne - Bouguenais",
-        "description": "Une belle boucle avec des belles vues et des sentiers insolites le long de la Loire. A voir la sculture 'The Settler'.",
+        "description": "Une belle boucle avec des belles vues et des sentiers insolites le long de la Loire. A voir la sculture 'The Settlers'.",
         "difficulty": {
             "label": "Moyen",
             "class": "bg-warning"
@@ -165,7 +165,7 @@
     },
     {
         "title": "Le long de l'ognon - Pont St Martin",
-        "description": "Uniquement Printemps/Eté (sinon pas de bateau). Ballade entre le village de Pont St Martin, le bois et retour par le bateau à chaine.",
+        "description": "Uniquement Printemps/Eté (sinon pas de bateau). Balade entre le village de Pont St Martin, le bois et retour par le bateau à chaine.",
         "difficulty": {
             "label": "Facile",
             "class": "bg-success"
@@ -206,5 +206,16 @@
         "stroller": "bg-success",
         "bike": "bg-success",
         "uniqueCode": "tourreze"
+    },
+    {
+        "title": "Vertou - Vignoble",
+        "description": "A tester",
+        "difficulty": {
+            "label": "?",
+            "class": "bg-secondary"
+        },
+        "stroller": "bg-secondary",
+        "bike": "bg-secondary",
+        "uniqueCode": "vertou_vignoble"
     }
 ]

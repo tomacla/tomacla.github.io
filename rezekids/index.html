@@ -139,12 +139,18 @@
             bikeBadge.textContent = "Vélo";
             bodyBottomBadges.appendChild(bikeBadge);
 
-            var gpxUrl = './gpx/' + item.uniqueCode + '.gpx';
+            var gpxUrl = window.location.href + 'gpx/' + item.uniqueCode + '.gpx';
             var cardLink = document.createElement('a');
-            cardLink.setAttribute('href', gpxUrl);
+            cardLink.setAttribute('href', 'https://gpx.tomacla.info?gpx=' + encodeURI(gpxUrl));
             cardLink.classList.add('card-link');
-            cardLink.textContent = 'Trace GPX';
+            cardLink.textContent = 'Voir GPX';
             bodyContainer.appendChild(cardLink);
+
+            var cardLinkDl = document.createElement('a');
+            cardLinkDl.setAttribute('href', gpxUrl);
+            cardLinkDl.classList.add('card-link');
+            cardLinkDl.textContent = 'Télécharger GPX';
+            bodyContainer.appendChild(cardLinkDl);
 
 
             var mapped = initMap('map-' + item.uniqueCode);
